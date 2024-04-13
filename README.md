@@ -1,17 +1,18 @@
-<h1 align="left">Hey 👋, I'm Joseph</h1>
+<h1 align="left">¡Hola, Soy Joseph!</h1>
 
-I’m a developer based in Colombia, and I’m passionate about creating multimedia experiences.
-Currently learning **MVC architecture, unit test**
+<p align="center">
+  <a href="https://www.linkedin.com/in/joseph-cuartas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:elsjoseph@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"></a>
+</p>
 
-## 📦 Toolbox
+## 🚀 Habilidades y Tecnologías:
 
-**Frontend Development:** `React` `Tailwind` `Bootstrap`
- 
-**Version Control:** `Git` 
-
-**Backend Development:** `Firebase` `Mongo` 
-
-**Others:** `Scrum` `C#` 
+- **Frontend:** `React Js` `TailwindCSS` `Bootstrap` `Material UI`
+- **Backend:** `Firebase` `MongoDB`
+- **Control de versiones:** `Git` `Github` 
+- **Desarrollo de videojuegos:** `Unity` `C#` `2D` `3D` 
+- **Herramientas de diseño:** `Figma` `Illustrator` `Photoshop` `Spline`  `Font awesome` 
+- **Otros lenguajes:** `Python` `Arduino` `Java`
 
 ## 📫 Contact
 
