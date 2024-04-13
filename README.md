@@ -1,8 +1,7 @@
 <h1 align="left">¡Hola, Soy Joseph!</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joseph-cuartas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:elsjoseph@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"></a>
+<p>
+Soy un desarrollador y me gustan los retos tecnológicos. He trabajado en diversos proyectos, desde videojuegos hasta aplicaciones móviles y web. Mi enfoque se centra en crear experiencias atractivas para el usuario, con atención en la accesibilidad y la intuición de las interfaces.
 </p>
 
 ## 🚀 Habilidades y Tecnologías:
@@ -12,8 +11,8 @@
 - **Control de versiones:** `Git` `Github` 
 - **Desarrollo de videojuegos:** `Unity` `C#` `2D` `3D` 
 - **Herramientas de diseño:** `Figma` `Illustrator` `Photoshop` `Spline`  `Font awesome` 
-- **Otros lenguajes:** `Python` `Arduino` `Java`
+- **Otros lenguajes:** `Python` `Arduino` `Java` `React Native`
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/daniels-cuartas/). 
+Para una respuesta mas rapida, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/daniels-cuartas/). ¡Estoy ansioso por conectar contigo! 😊
