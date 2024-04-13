@@ -15,4 +15,4 @@ Soy un desarrollador y me gustan los retos tecnológicos. He trabajado en divers
 
 ## 📫 Contact
 
-Para una respuesta mas rapida, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/daniels-cuartas/). ¡Estoy ansioso por conectar contigo! 😊
+Para una respuesta mas rapida, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/daniels-cuartas/) o elsjoseph@hotmail.com. ¡Estoy ansioso por conectar contigo! 😊
