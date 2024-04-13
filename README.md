@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, I'm Daniels</h1>
+<h1 align="left">Hey 👋, I'm Joseph</h1>
 
 I’m a developer based in Colombia, and I’m passionate about creating multimedia experiences.
 Currently learning **MVC architecture, unit test**
